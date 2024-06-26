@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+.block{
+    min-width: 1440px;
+margin-left: 2000px;
+margin-top: 400px;
+
+}
+
+.div{
+    margin-bottom: 100px;
+}
+
+.block__title{
+    font-size: 90px;
+   margin-bottom: 50px;
+}
+
+.maps__suptitle{
+    font-size: 90px;
+    margin-bottom: 50px;
+    margin-top: 400px;
+}
+
